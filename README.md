@@ -2,6 +2,12 @@
 
 > Програма підтримки прийняття рішень для оцінювання рівня керованості процесів у складних системах з урахуванням різних режимів функціонування на основі нечіткої логіки.
 
+[![Live Demo](https://img.shields.io/badge/demo-online-blue.svg?style=for-the-badge)](https://romankozar.github.io/fuzzy-controllability-assessment/)
+[![Methodology](https://img.shields.io/badge/Method-Fuzzy--Logic-cyan.svg?style=for-the-badge)](https://github.com/RomanKozar/fuzzy-controllability-assessment)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg?style=for-the-badge)](https://github.com/RomanKozar/fuzzy-controllability-assessment/releases)
+
+![Головна сторінка](preview.png)
+
 ---
 
 ## 📌 Опис
@@ -15,8 +21,6 @@
 - визначати безпечний / небезпечний стан системи відносно порогу α
 
 ---
-
-![Головна сторінка](preview.png)
 
 ## 🚀 Запуск
 
